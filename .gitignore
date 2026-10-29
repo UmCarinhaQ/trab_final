@@ -1,0 +1,23 @@
+
+# Arquivos temporários do VS Code
+.vscode/
+*.code-workspace
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Cache
+.cache/
+temp/
+tmp/
+
+# Configurações locais
+.env
+.env.local
